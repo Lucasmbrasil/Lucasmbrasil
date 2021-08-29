@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning typescript and Node.js
 - 💬 Ask me about sports, I love it
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: One of my favorite hobbies is playing with my children to turn upside down
+- ⚡ Fun fact: I like to  play with my children turning them upsidown
 - 👀 I’m interested in learning Python
 
 <h2 />
