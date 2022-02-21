@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning typescript and Node.js
 - 💬 Ask me about sports, I love it
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I like to  play with my children turning them upsidown
 - 👀 I’m interested in learning React Native
 
 <h2 />
