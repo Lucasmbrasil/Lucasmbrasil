@@ -5,7 +5,7 @@
 - 💬 Ask me about sports, I love it
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like to  play with my children turning them upsidown
-- 👀 I’m interested in learning Python
+- 👀 I’m interested in learning React Native
 
 <h2 />
 <h3>Web Technologies<h3>
